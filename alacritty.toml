@@ -1,0 +1,50 @@
+[window]
+opacity = 0.6
+padding.x = 30
+padding.y = 30
+decorations = "Full"
+decorations_theme_variant = "Dark" # "Dark"
+
+# [font.normal]
+# normal.family = "CaskaydiaCove Nerd Font Mono"
+# bold.family = "CaskaydiaCove Nerd Font Mono"
+# italic.family = "CaskaydiaCove Nerd Font Mono"
+# bold_italic.family = "CaskaydiaCove Nerd Font Mono"
+# style = "Regular"
+
+[font]
+size = 10
+[font.normal]
+family = "CaskaydiaCove Nerd Font Mono"
+style = "bold"
+
+
+
+[colors]
+  [colors.primary]
+    # background = "0x0F1419"  # Darker background
+    # foreground = "0xA6ACB9"  # Softer foreground
+
+  [colors.cursor]
+    text = "0x027182"
+    cursor = "0x2e86c1"  # Softer cursor color
+
+  [colors.normal]
+    black   = "0x000000"  # Slightly less black
+    red     = "0xE06C75"  # Muted red
+    green   = "0x00b706"  # Muted green
+    yellow  = "0xE5C07B"  # Muted yellow
+    blue    = "0x365A93"  # Softer blue
+    magenta = "0xC678DD"  # Softer magenta
+    cyan    = "0x035d75"  # Muted cyan
+    white   = "0xffffff"  # Softer white
+
+  [colors.bright]
+    black   = "0x027182"  # Slightly muted black
+    red     = "0xF77669"  # Softer bright red
+    green   = "0xB1E980"  # Softer bright green
+    yellow  = "0xF0C674"  # Softer bright yellow
+    blue    = "0x4573B2"  # Muted bright blue
+    magenta = "0xD4A5F7"  # Softer bright magenta
+    cyan    = "0x035d75"  # Muted bright cyan
+    white   = "0xe2e2e2"  # Softer bright white
